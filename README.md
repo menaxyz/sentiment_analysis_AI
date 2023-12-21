@@ -1,4 +1,4 @@
-# sentiment_analysis_AI
+# Sentiment_Analysis_AI
 # Project: Sentiment Analysis with Pytorch
 
 Overview: This project shows Sentiment Analysis using Pytorch to classify sentences as either positives or negatives. Sentiment Analysis is trained on a dataset contianing 150 positice and 150 negative sentences. The implementation includes data collections, preprocessing, model creation, training, and evaluation
